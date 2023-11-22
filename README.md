@@ -16,3 +16,4 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Essential Python for data anlyst
 - Dashboard
   
+You can find me on LinkedIn https://www.linkedin.com/in/chanoknan-kasetsin-353420171/
